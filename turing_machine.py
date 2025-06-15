@@ -1,4 +1,3 @@
-# automata/turing_machine.py
 class TuringMachine:
     def __init__(self, states, tape_alphabet, transitions, start_state, accept_state, blank_symbol="_"):
         self.states = states
